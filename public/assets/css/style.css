@@ -14916,7 +14916,7 @@ header.header-three.sticky .logo-area .logo-dark {
   display: block;
 }
 header.header-three.sticky .main-nav-one ul li a.nav-link {
-  color: #1f1f25;
+  color: #0b0be9;
 }
 
 header.header-three.header--sticky.sticky .header-right .action-button-menu #menu-btn svg rect {
@@ -14982,7 +14982,7 @@ header.header-four .header-right .action-button-menu {
   align-items: center;
 }
 header.header-four .header-right .action-button-menu .contact {
-  color: #fff;
+  color: #000000;
 }
 header.header-four .header-right .action-button-menu #menu-btn {
   margin-left: 25px;
